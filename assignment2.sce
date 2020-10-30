@@ -3,8 +3,6 @@ clear
 clf
 
 a = 5;
-theta = 20;
-
 
 for i = 1:10:360
 
