@@ -4,7 +4,7 @@ clf
 
 // SYSTEM 1
 k1 = 1; //spring stiffness
-b1 = 0.2; //damping coefficient
+b1 = 0.2; //damping constant
 m1 = 1; //mass
 
 A1 = [0 1; -k1/m1 -b1/m1];
@@ -18,7 +18,7 @@ y1 = csim('step', t, S1)
 
 //SYSTEM 2
 k2 = 2; //spring stiffness
-b2 = 0.2; //damping coefficient
+b2 = 0.2; //damping constant
 m2 = 1; //mass
 
 A2 = [0 1; -k2/m2 -b2/m2];
