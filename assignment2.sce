@@ -17,7 +17,6 @@ for i = 1:5:360
     legend(["R1"; "R3"; "R2"])
     xtitle("Position of all links when rotated 360 degrees");
     
-    
     sleep(60)
     delete(b)
 
