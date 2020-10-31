@@ -11,8 +11,8 @@ Class assignments :laughing:
 alternatively
 `exec('<FULL-PATH/TO/FILE.sce>', -1)`
 
-## Result
+## Results
 
-| Assignment 1                                                                                                                               | Screenshot                                                                                                                                 |
+| SDOF System                                                                                                                                | Scotch Yoke Mechanism                                                                                                                      |
 | ------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------ |
-| <img src="https://user-images.githubusercontent.com/60868965/97668954-0d0d0e80-1abe-11eb-8fe2-b8e059d2d06e.png" heigth="512" width="288"/> | <img src="https://user-images.githubusercontent.com/60868965/97669223-98869f80-1abe-11eb-9301-9209edeaec1a.gif" heigth="512" width="288"/> |
+| <img src="https://user-images.githubusercontent.com/60868965/97668954-0d0d0e80-1abe-11eb-8fe2-b8e059d2d06e.png" heigth="512" width="288"/> | <img src="https://user-images.githubusercontent.com/60868965/97770607-c8da4680-1b6f-11eb-9405-b7ddea00b086.gif" heigth="512" width="288"/> |

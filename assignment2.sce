@@ -4,7 +4,7 @@ clf
 
 a = 5;
 
-for i = 1:10:360
+for i = 1:5:360
 
     h = gca();
     h.data_bounds = [-5, -5; 5, 5]; //specify boundary
