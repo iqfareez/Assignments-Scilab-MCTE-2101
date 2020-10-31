@@ -15,8 +15,10 @@ for i = 1:10:360
     mR2 = R3/R1
     
     plot([R1, 0], [0,0] ,[R1, R1],[0, R3], [0, R1], [0, R3] , 'LineWidth', 3);
+    legend(["R1"; "R3"; "R2"])
+    xtitle("Position of all links when rotated 360 degrees")
     
-    sleep(100)
+    sleep(60)
     delete()
 
 end
