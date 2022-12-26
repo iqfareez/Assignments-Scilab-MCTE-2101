@@ -1,6 +1,8 @@
 # SCILAB Assignments
 
-Class assignments :laughing:
+Class assignments to simulate:
+- Single-Degree-of-Freedom (SDOF) system
+- Scotch Yoke Mechanism
 
 ## To run
 
